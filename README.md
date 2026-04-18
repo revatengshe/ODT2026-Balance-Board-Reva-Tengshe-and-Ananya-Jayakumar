@@ -58,14 +58,14 @@ By the final review, this README should clearly show:
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `[Student 1]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
-| `[Student 2]` | `[Electronics / Coding / App / Fabrication / Mechanics]` | `[Role]` | `[Write here]` |
+| `Reva Tengshe` | `[Electronics, Coding]` | `[Fabrication, Mechanics]` | `Good understanding of code amd circuitry, Documentation` |
+| `Ananya Jayakumar` | `[Electronics / Fabrication ]` | `Coding,/ Mechanics ` | `Good understanding of circuitry, materials and working with them.` |
 
 ## 1.3 Project Title
 `[Enter the title of your project]`
 
 ## 1.4 One-Line Pitch
-`[Describe your project in one sentence]`
+`A balance board that lets you control games like Fireboy and Watergirl with your body.`
 
 ## 1.5 Expanded Project Idea
 In 1–2 paragraphs, explain:
@@ -75,7 +75,9 @@ In 1–2 paragraphs, explain:
 - what technologies are involved.
 
 **Response:**  
-`[Write here]`
+`This is a motion-responsive balance board that turns shifts in body weight into game controls, reimagining how games like Fireboy and Watergirl are played. Video Games like Fireboy and Watergirl are controlled by keys on the keyboard like the arrow keys or keys like A,W,D. Instead of sitting and tapping arrow keys or A, W, D, you use your whole body—leaning, tilting, and trying to stay balanced while your characters move through the game. It’s a little chaotic, sometimes funny, and a lot more immersive. The game doesn’t just stay on the screen anymore, you feel part of it.`
+
+`Three ultrasonic sensors(jump, right, left) are placed under each board to track how it tilts by measuring the distance from the ground. As your weight shifts, those changes trigger a keypress on the keyboard which is connected to the ESP32 via bluetooth. So instead of pressing keys, your movements do the work, turning gameplay into something more physical and playful.`
 
 ---
 
@@ -101,7 +103,7 @@ Answer the following:
 - Why would someone want to try it again?
 
 **Response:**  
-`[Write here]`
+`- Engaging ones mind and whole body while playing a game. The player will have to fully immerse themself in the game. Along with this they will have to balance themself on the balance board and not `
 
 ## 2.3 Design Persona
 Complete the sentence below:
