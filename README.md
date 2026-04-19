@@ -58,8 +58,8 @@ By the final review, this README should clearly show:
 
 | Name | Primary Role | Secondary Role | Strengths Brought to the Project |
 |---|---|---|---|
-| `Reva Tengshe` | `[Electronics, Coding]` | `[Fabrication, Mechanics]` | `Good understanding of code amd circuitry, Documentation` |
-| `Ananya Jayakumar` | `[Electronics / Fabrication ]` | `Coding,/ Mechanics ` | `Good understanding of circuitry, materials and working with them.` |
+| `Reva Tengshe` | `Electronics, Coding` | `Fabrication, Mechanics` | `Good understanding of code amd circuitry, Documentation` |
+| `Ananya Jayakumar` | `Electronics, Fabrication ` | `Coding,/ Mechanics ` | `Good understanding of circuitry, materials and working with them.` |
 
 ## 1.3 Project Title
 `[Enter the title of your project]`
@@ -111,7 +111,7 @@ Complete the sentence below:
 > We are designing this project as if we are a small creative studio making a **[toy / game / playable object / interactive experience]** for **[children / teens / adults / classmates / exhibition visitors / mixed audience]**.
 
 **Response:**  
-`[Write here]`
+`we are designing this project as if we are a small creative studio making an interactive experience for a children, teens and adults`
 
 ---
 
