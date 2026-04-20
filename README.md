@@ -727,8 +727,25 @@ Include:
 - revisions.
 
 **Response:**  
-`The balance board was physically fabricated. The hemisphere/dome(lower part) of the balance board was made of HDF(High-Density Fibreboard) and the top circle was made of plywood. The wedges were made of MDF and the base for the wedges was made of sunboard.  
-The HDF and Plywood were cut using the electric saw and the band saw. The MDF was also cut using the bandsaw `
+`Materials Used: `
+`- HDF (High-Density Fibreboard): Lower hemisphere/dome`
+`- Plywood: Top circular platform`
+`- MDF (Medium-Density Fibreboard): Wedges`
+`- Sunboard: Base for wedges`
+`- Adhesives: Wood glue, Fevibond, hot glue`
+`- Tapes: Masking tape, insulating electrical tape`
+
+`The process began with constructing the dome of our balanceboard. Five circular layers of increasing sizes were drawn onto HDF and cut using an electric saw and band saw. These layers were then trimmed into a rough polygonal form by removing excess material. Once prepared, the layers were carefully aligned, glued together using wood glue and clamped to dry. To achieve the final curved shape, two different approaches were used. For one dome, a lathe machine was used, with an additional cuboid wooden block attached to act as a grip while turning. For the other, the curvature was achieved manually by sanding down the edges using a sanding machine until a smooth, rounded form was obtained.`
+
+`The top circular platform was cut from plywood using the band saw and then sanded to ensure a clean finish. It was attached to the flat side of the dome using wood glue, and the piece was flipped upside down during drying so that gravity would help secure the bond more effectively.`
+
+`The wedges were made from MDF by cutting them on the band saw and then sanding their edges to approximately 45-degree angles. These pieces were assembled using wood glue and temporarily held in place with masking tape while drying. Once completed, the wedges were mounted onto a foamboard base using a combination of hot glue and Fevibond to ensure they remained fixed in position.`
+
+`For the wiring, wires were cut and stripped using a wire cutter and stripper, then connected and secured using insulating electrical tape. Masking tape was additionally used to organise and hold the wires in place on the structure.`
+
+`The finishing process involved sanding all wooden components to remove sharp edges and refine the surfaces, particularly the dome, to ensure smooth contact and usability.`
+
+`A key revision in the process involved rethinking the wedge design. Initially, the wedges were oriented at a 90-degree angle; however, this did not provide sufficient grip. By flipping the wedges upside down, the effective angle increased, resulting in better stability and improved user interaction with the balance board.`
 
 ## 17.2 Build Photos
 Add photos throughout the project.
