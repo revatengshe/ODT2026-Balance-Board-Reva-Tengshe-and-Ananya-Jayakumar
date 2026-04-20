@@ -374,7 +374,7 @@ Describe the main electrical connections.
 Insert a hand-drawn or software-made circuit diagram.
 
 **Insert image below:**  
-`[Upload image and link here]`
+<img src="images/circuit diagram.jpeg" width="400">
 
 ## 9.4 Power Plan
 
@@ -754,10 +754,15 @@ Suggested images:
 - mechanism test,
 - app screenshot,
 - final build.
-
-Example:
-```md
-
+- 
+<img src="images/prototyping.jpeg" width="400">
+<img src="images/ultrasonic sensor trial.jpeg" width="400">
+<img src="images/balanceboard construction 1.jpeg" width="400">
+<img src="images/balanceboard construction 2.jpeg" width="400">
+<img src="images/balanceboard construction 4.jpeg" width="400">
+<img src="images/balanceboard construction 5.jpeg" width="400">
+<img src="images/final circuit.jpeg" width="400">
+<img src="images/final circuit 2.jpeg" width="400">
 
 
 ```
