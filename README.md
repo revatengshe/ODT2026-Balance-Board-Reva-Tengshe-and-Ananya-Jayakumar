@@ -764,8 +764,12 @@ Suggested images:
 <img src="images/final circuit.jpeg" width="400">
 <img src="images/final circuit 2.jpeg" width="400">
 <img src="images/final balanceboard.jpeg" width="400">
+<img src="images/side view.jpeg" width="400">
 <img src="imagesbase + wedges.jpeg" width="400">
-
+<img src="images/set up.jpeg" width="400">
+<img src="images/set up 1.jpeg" width="400">
+<img src="images/set up 2.jpeg" width="400">
+<img src="images/set up 3.jpeg" width="400">
 
 ```
 
